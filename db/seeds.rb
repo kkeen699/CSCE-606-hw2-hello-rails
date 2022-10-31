@@ -19,7 +19,13 @@ more_movies = [
   {:title => 'CODA', :rating => 'PG-13',
     :release_date => '13-Aug-2021'},
   {:title => 'The Secret Life of Walter Mitty', :rating => 'PG',
-    :release_date => '25-Dec-2013'}
+    :release_date => '25-Dec-2013'},
+  {:title => 'Big Hero 6', :rating => 'PG',
+    :release_date => '07-Nov-2014'},
+  {:title => 'Inside Out', :rating => 'PG',
+    :release_date => '03-Nov-2015'},
+  {:title => 'Zootopia', :rating => 'PG',
+    :release_date => '04-Mar-2016'},
 ]
 
 more_movies.each do |movie|
